@@ -1,3 +1,3 @@
 # demo_1
 
-subscription.
+subscription!
